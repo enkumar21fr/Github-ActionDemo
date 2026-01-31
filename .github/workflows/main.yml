@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: execute linux commands
-       run: echo "hello all"
+        run: echo "hello all"
   job2: 
     runs-on: ubuntu-24.04
       -name : set of commands
